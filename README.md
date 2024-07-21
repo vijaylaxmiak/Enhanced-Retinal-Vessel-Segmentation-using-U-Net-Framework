@@ -1,5 +1,5 @@
 # Enhanced Retinal Vessel Segmentation using U-Net Framework 
-# Overview
+## Overview
 This research paper introduces a deep learning approach for retinal vessel segmentation using a U-Net-based convolutional neural network (CNN). The accurate segmentation of retinal blood vessels is essential for the early detection of eye conditions such as glaucoma, macular edema, and diabetic retinopathy.
 # Key Contributions
 Green Channel Utilization: Enhances vessel visibility by using the green channel from RGB fundus images.
